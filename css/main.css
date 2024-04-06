@@ -32,6 +32,7 @@ img{
         
     }
     button{
+      
         padding: 2px;
          margin: 10px;
          color: white;
@@ -42,4 +43,19 @@ img{
    p{
     margin: 5px;
    }
-   
+   .price{
+    font-style: italic;
+    font-size: small;
+    font-weight: 900;
+    float: left;
+    color: rgb(243, 5, 5);
+    margin: 0px 0px 0px 5px;
+   }
+   .discount{
+    font-style: italic;
+    font-size: large;
+    font-weight: 900;
+    float: left;
+    color: rgb(5, 243, 5);
+    margin: 0px 0px 0px 5px;
+   }
