@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    border: 1px blue solid;
+    margin: 10px;
+}
+.h-tow{
+    margin: 20px ;
+
+
+}
+.sec-one {
+    border: 1px black solid;
+    margin: 20px 60px;
+    text-align: center;
+    height: 220px;
+}
+img{
+    width: 30px;
+    margin: 5px;
+    
+  
+    }
+    .iphons{
+      display: inline-block;
+       width: 20%; 
+        margin: 10px 0px 30px 5px;
+        border: 1px darkgray solid;
+        
+    }
+    button{
+        padding: 2px;
+         margin: 10px;
+         color: white;
+         background-color: blue;
+         
+        
+    }
+   p{
+    margin: 5px;
+   }
+   
